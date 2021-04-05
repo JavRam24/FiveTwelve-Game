@@ -8,7 +8,7 @@ sliding tile game Threes.
 
 ## Game Play
 
-The game is played on a 4x4 grid. Initially tiles containing the value 2 are placed randomly on the grid.  In each turn, the player may move all the tiles left, right, up, or down.  Tiles will slide as far as possible in the indicated direction, stopping when they reach an edge of the grid or when they meet a tile with a different value.  If a tile meets another tile with the same value, it absorbs the other tile (adding the value of the other tile to its own, thereby doubling), and *continues moving*.
+The game is played on a 4x4 grid. Initially tiles containing the value 2 are placed randomly on the grid.  In each turn, the player may move all the tiles left, right, up, or down.  Tiles will slide as far as possible in the indicated direction, stopping when they reach an edge of the grid or when they meet a tile with a different value.  If a tile meets another tile with the same value, it absorbs the other tile (adding the value of the other tile to its own, thereby doubling), and *continues moving*.  Use the arrow keys to move the tiles.
 
 The order of movement matters when more than one merge is possible.  Consider a move *right* in the following row:
 
