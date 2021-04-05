@@ -84,8 +84,6 @@ The current view component uses Zelle's graphics module (graphics/graphics.py), 
 
 Most changes to game logic in model.py should also be possible without changing view.py. For example, adopting the 2048 rule regarding merging (only one merge per tile per move) should require no change to view.py.  Adopting the 2048 rule regarding ineffective moves would require small changes to model.py and controller.py but no change to view.py or keypress.py.  This independence is the point of MVC organization.
 
-## What students must program
+## University of Oregon Assignment
 
-Although there is a lot of code to add to the skeleton, a fair amount of it is given to
-you in [the HOWTO document](doc/HOWTO.md).  The main thing you have to design
-on your own are the loops that move each tile in turn, in the correct order.
+This is a former assignment that I did in class.  This is to showcase the work I have been doing in class and how much I have learned.
